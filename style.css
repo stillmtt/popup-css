@@ -36,11 +36,6 @@
 	border-radius: 4px 4px 4px 4px;
 	box-shadow: 0 0 0 5px rgba(187, 187, 187, 0.5);
 	z-index: 102;
-
-    transition: all 1s;
-    
-    transform: perspective(300px) scaleZ(1) rotateX(10deg);   
-    
 }
 
 
